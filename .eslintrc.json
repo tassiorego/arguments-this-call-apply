@@ -1,0 +1,3 @@
+{
+  "extends": "@codewiser/eslint-config/node"
+}
